@@ -16,7 +16,7 @@
 			<?php if ( is_active_sidebar( 'footer-copyright' ) ) dynamic_sidebar( 'footer-copyright' ); ?>
 		</div>
 		<div class="<?php coral_light_footer_link_class(); ?>">
-			<a id="designer" class="alignright" href="http://www.coralthemes.com/"><?php _e( 'WordPress theme by CoralThemes', 'coral-light' ) ?></a>
+			
 		</div>
 		
 	</footer><!-- #colophon -->
