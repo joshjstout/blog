@@ -1,0 +1,472 @@
+# Copyright (C) 2016 Coralthemes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coral Light "
+"http://www.coralthemes.com/product/coral-light-pro-wordpress-theme/ .\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-04-30 16:11:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the "
+"links below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#. translators: %1$s: smiley
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:36 comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:37 comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:20 content-single.php:30 content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:27 inc/template-tags.php:37
+msgid "Edit"
+msgstr ""
+
+#: content.php:24
+#. translators: %s: Name of current post
+msgid "Read more %s <i class=\"read-more\"></i>"
+msgstr ""
+
+#: footer.php:19
+msgid "WordPress theme by CoralThemes"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer"
+msgstr ""
+
+#: functions.php:428
+msgid "Home"
+msgstr ""
+
+#: functions.php:536
+msgid "Medium-Large"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:71
+msgid "  Menu"
+msgstr ""
+
+#: inc/customizer.php:82 inc/customizer.php:273
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "No, I want to display my own images"
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Logo, Site Title, Tagline, Site icon"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "Max. width of the logo image or logo text (site title and tagline):"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "This also affects the place width of the social icons and the search form."
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Max. height of the logo image"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:191 inc/customizer.php:205
+msgid "This is displayed only if you do not upload an image logo"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Vertical position (margin-top) of the site title"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Vertical position (margin-top) of the tagline"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:253
+msgid "Vertical position (margin-top) of the social icons"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Display search form?"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Width of the search form:"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid ""
+"Percentage of the place on the side of the logo text. (Here the right side "
+"is 100%, but leave enough place for the social icons!)"
+msgstr ""
+
+#: inc/customizer.php:321
+msgid "Vertical position (margin-top) of the search box"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Vertical position (margin-top) of the topmenu"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Sidebar width:"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "Social icons"
+msgstr ""
+
+#: inc/customizer.php:377
+msgid ""
+"Type the target URL (with http://) if you need a social icon in the header, "
+"remove it if you do not need it!"
+msgstr ""
+
+#: inc/customizer.php:385
+msgid "Youtube URL (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Feed URL (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Twitter URL (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Google URL (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Facebook URL (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Here you can set up the typography with basic web safe fonts"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Site title font"
+msgstr ""
+
+#: inc/customizer.php:481
+msgid "Site title fontsize:"
+msgstr ""
+
+#: inc/customizer.php:494
+msgid "Tagline font"
+msgstr ""
+
+#: inc/customizer.php:508
+msgid "Tagline fontsize:"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Body font"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Body fontsize:"
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "Heading font"
+msgstr ""
+
+#: inc/customizer.php:553
+msgid "The h1, h2... fontsizes are based on the body fontsize"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid "Slideshow"
+msgstr ""
+
+#: inc/customizer.php:566
+msgid "Upload at least 980px wide images with the same aspect ratio!"
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Display slideshow on frontpage"
+msgstr ""
+
+#: inc/customizer.php:586
+msgid "Display slideshow on blog page"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Always display the slideshow"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid ""
+"Comma separated IDs of posts/pages for which you need the slideshow (e.g. "
+"1, 23, 54)."
+msgstr ""
+
+#: inc/customizer.php:622
+msgid "Slideshow effect"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Animation speed (mS)"
+msgstr ""
+
+#: inc/customizer.php:664
+msgid "Pause time (mS)"
+msgstr ""
+
+#: inc/customizer.php:676
+msgid "Slide title 1"
+msgstr ""
+
+#: inc/customizer.php:687
+msgid "Title link 1 (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Slider image 1"
+msgstr ""
+
+#: inc/customizer.php:711
+msgid "Slide title 2"
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "Title link 2 (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:734
+msgid "Slider image 2"
+msgstr ""
+
+#: inc/customizer.php:746
+msgid "Slide title 3"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid "Title link 3 (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "Slider image 3"
+msgstr ""
+
+#: inc/customizer.php:779
+msgid "Slide title 4"
+msgstr ""
+
+#: inc/customizer.php:790
+msgid "Title link 4 (start with http://)"
+msgstr ""
+
+#: inc/customizer.php:800
+msgid "Slider image 4"
+msgstr ""
+
+#: inc/customizer.php:807
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Site title color"
+msgstr ""
+
+#: inc/customizer.php:827
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:839
+msgid "Background Color"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Updated: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid "Categories:"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:73 inc/template-tags.php:79
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Categories: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "Tags: %1$s"
+msgstr ""
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:17
+msgid "Previous post"
+msgstr ""
+
+#: single.php:18
+msgid "Next post"
+msgstr ""
+
+#: single.php:19
+msgid "Post navigation"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Coral Light"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.coralthemes.com/product/coral-light-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Coral Light is a free responsive theme with one-column or two-column "
+"layout, and built-in slideshow. The theme is optimized for SEO, and "
+"suitable e.g. for a small business site, portfolio gallery site or a photo "
+"blog that can be spectacular with its light, white background. You can find "
+"a demo site here: http://www.coralthemes.com/demos?theme=Coral-light . More "
+"info can be found here: "
+"http://www.coralthemes.com/product/coral-light-wordpress-theme/ . Further "
+"customization options are available in the pro version: "
+"http://www.coralthemes.com/product/coral-light-pro-wordpress-theme/ ."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Coralthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://coralthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full width page"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
