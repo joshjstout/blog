@@ -22,7 +22,7 @@
 				<?php do_action( 'basic_post_meta_before_first' ); ?>
 				<span class="date"><?php the_time(get_option('date_format')); ?></span>
 				<span class="category"><?php the_category(', ') ?></span>
-				<span class="comments"><?php comments_popup_link( __('Comments', 'basic').': 0', __( "Comments", 'basic') .': 1', __("Comments", 'basic').': %', '', ''); ?></span>
+<!--				<span class="comments">--><?php //comments_popup_link( __('Comments', 'basic').': 0', __( "Comments", 'basic') .': 1', __("Comments", 'basic').': %', '', ''); ?><!--</span>-->
 				<?php do_action( 'basic_post_meta_after_last' ); ?>
 			</aside>
 	
@@ -44,9 +44,9 @@
 				?>
 				
 				<?php if ( !is_single() ) : ?>
-				<p class="more-link-box">	
-					<a class="more-link" href="<?php the_permalink() ?>#more-<?php the_ID(); ?>" title="<?php the_title_attribute(); ?>"><?php _e('Read more', 'basic'); ?></a>
-				</p>
+<!--				<p class="more-link-box">	-->
+<!--					<a class="more-link" href="--><?php //the_permalink() ?><!--#more---><?php //the_ID(); ?><!--" title="--><?php //the_title_attribute(); ?><!--">--><?php //_e('Read more', 'basic'); ?><!--</a>-->
+<!--				</p>-->
 				<?php endif; ?>
 				
 			</div>
